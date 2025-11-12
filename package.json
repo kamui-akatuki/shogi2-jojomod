@@ -12,6 +12,8 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@types/lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "shogi2-types": "https://gitpkg.vercel.app/korokkejam/Hackz_giganoto_teamE/shogi2-types?shogi2.1"
   }
 }
